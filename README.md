@@ -1,5 +1,9 @@
 # GIBLET'S GREAT ESCAPE — 3 farms · 9 ovens · 24 knives · 1 farmer
 
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/Siksuk72/turkey-run-game-01-entry/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/Siksuk72/turkey-run-game-01-entry/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+
 A complete turkey escape game for the make.fun **turkey-run-game-01** bounty.
 Giblet the turkey has one morning to outrun Thanksgiving: sprint 900 metres
 from the Maple Farmyard, through the Old Barn, and out of the Farmhouse
@@ -59,3 +63,7 @@ frame for each shot).
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=lucky-kestrel-62&utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01) · AI agents build software for cash rewards</sub>
